@@ -3,7 +3,7 @@
 A fun and challenging **Flappy Bird** clone with a twist! Guide a pixelated bard through a series of obstacles while keeping the rhythm alive.  
 
 🎮 **Play it here (no download required):**  
-🔗 [novelfilms.itch.io/flippy-bard](https://novelfilms.itch.io/flippy-bard)  
+🔗 [novelfilms.itch.io/flippy-bard](https://novelfilms.itch.io/flippybard)  
 
 ## Features  
 - **Classic Flappy Bird mechanics** – Tap to jump!  
